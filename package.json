@@ -1,0 +1,22 @@
+{
+    "name": "seoulRemix",
+    "displayName": "seoulRemix",
+    "description": "This is an update to seoul256.",
+    "publisher": "Mhalisk",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "seoulRemix",
+                "uiTheme": "vs-dark",
+                "path": "./themes/seoulRemix-color-theme.json"
+            }
+        ]
+    }
+}
