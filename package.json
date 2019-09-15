@@ -3,7 +3,7 @@
     "displayName": "seoulRemix",
     "description": "This is an update to seoul256.",
     "publisher": "Mhalisk",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.36.0"
     },
