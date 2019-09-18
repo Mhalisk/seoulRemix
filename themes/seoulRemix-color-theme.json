@@ -901,6 +901,12 @@
       }
     },
     {
+      "scope": "support.class.console.js",
+      "settings": {
+        "foreground": "#97bb98"
+      }
+    },
+    {
       "scope": "entity.other.attribute-name.localname.xml",
       "settings": {
         "foreground": "#e0bb71"
